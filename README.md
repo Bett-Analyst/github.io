@@ -48,5 +48,49 @@ This dashboard serves as a crucial tool for hospital management and healthcare a
 **Project Overview**
 ![Hospital](Hospital.png)
 
+# Project 2 
+
+**Title:** Hospital Data Interogation and Manipulation
+
+**SQL Code:** [Hospital SQL Code](https://github.com/Bett-Analyst/github.io/blob/main/Hospital_Data_Analysis)
+
+**SQL Skills Used:** 
+
+**Data Retrieval (SELECT):** Queried and extracted specific information from the database.
+
+**Data Aggregation (SUM, COUNT):** Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+**Data Filtering (WHERE, BETWEEN, IN, AND):** Applied filters to select relevant data, including filtering by ranges and lists.
+
+**Data Source Specification (FROM):** Specified the tables used as data sources for retrieval
+
+**Project Description:** 
+
+This project focuses on the analysis of a comprehensive dataset containing detailed information about 1,000 hospital patient records. The primary objective is to utilize SQL for extracting meaningful insights regarding patient demographics, medical conditions, procedures, costs, and outcomes.
+
+**Database Design and Implementation:** Developed a relational database schema to effectively store and manage hospital patient data, ensuring normalization and referential integrity. The schema includes fields for patient demographics (age, gender), medical details (condition, procedure, cost, length of stay), and outcomes (readmission, outcome, satisfaction).
+
+**Data Analysis Using SQL:**
+*Employed SQL queries to analyze the dataset, including:*
+
+Aggregating total costs by procedures and conditions to identify the most expensive treatments.
+Calculating total length of stay by condition to understand hospitalization durations.
+Counting patient distributions by gender and outcome to assess demographic and treatment outcome patterns.
+
+
+**Insight Extraction:** Identified key patterns and trends within the data, such as:
+
+**Top Costly Procedures and Conditions:** Identified procedures like Surgery and Chemotherapy and conditions like Cancer as the most expensive, highlighting high-cost areas in healthcare.
+**Length of Stay Trends:** Found conditions like Cancer and Stroke associated with the longest hospital stays, indicating higher resource utilization.
+Patient Demographics and Outcomes: Analyzed gender distribution and patient outcomes (Recovered vs. Stable), revealing balanced gender representation and a higher recovery rate among certain conditions.
+
+
+**Reporting and Visualization:** Presented findings using comprehensive SQL query outputs to facilitate better understanding and decision-making. The results provide actionable insights for hospital administrators, enabling cost management, resource allocation, and improved patient care strategies.
+
+
+By the end of this project, we aim to have a fully functional SQL database capable of providing in-depth analysis of hospital patient data, offering valuable insights for stakeholders such as hospital administrators, healthcare providers, and financial analysts.
+
+
+**Technology used:** SQL server
 
 
