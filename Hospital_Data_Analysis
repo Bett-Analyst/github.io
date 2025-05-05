@@ -1,0 +1,27 @@
+--Top five costly procedures
+SELECT Top 5 Procedures, SUM(Cost) AS Total_Cost
+FROM [dbo].[Hospital_Data_Analysis]
+GROUP BY Procedures
+ORDER BY Total_Cost DESC
+
+--Top 5 costly conditions
+SELECT Top 5 Condition, SUM(Cost) AS Total_Cost
+FROM [dbo].[Hospital_Data_Analysis]
+GROUP BY Condition
+ORDER BY Total_Cost DESC
+
+-- Condition with high length of stay
+SELECT Top 2 Condition, SUM(Length_of_stay) AS Total_Length
+FROM [dbo].[Hospital_Data_Analysis]
+GROUP BY Condition
+ORDER BY Total_Length DESC
+
+-- Total Patients per Gender
+SELECT Gender, COUNT(patient_ID) AS Total_Patients
+FROM [dbo].[Hospital_Data_Analysis]
+GROUP BY Gender
+
+--Total Patients per outcome
+SELECT Outcome, COUNT(patient_ID) AS Total_Patients
+FROM [dbo].[Hospital_Data_Analysis]
+GROUP BY Outcome
