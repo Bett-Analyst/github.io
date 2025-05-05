@@ -142,4 +142,52 @@ This project involved analyzing hospital admission data to identify trends and p
 **Dashboard Overview:**
 ![Sales Dashboard](Sales.png)
 
+# Project 4
 
+**Title:** Students Perfromance Dashboard
+
+**Tools Used:** Microsoft Excel(Pivot Tables, Pivot Charts, Slicers, Timelines)
+
+**Project Description:** 
+This project involved analyzing student performance data to identify trends and patterns in academic habits, demographic factors, and exam outcomes. It is designed to provide a comprehensive overview of key educational performance metrics. This interactive dashboard allows educators and administrators to easily monitor and evaluate student engagement, academic success, and resource allocation across various age groups and participation levels.
+
+The dashboard includes the following features:
+
+**Extracurricular Impact**: Visual breakdown of exam scores categorized by extracurricular participation, helping identify its influence on student performance.
+
+**Part-Time Job Effects**: Pie chart showing the proportion of students with part-time jobs and its correlation with exam scores and study hours, supporting efforts to optimize time management.
+
+**Age Distribution**: Bar chart highlighting student count per age group, offering insight into demographic trends and performance variations.
+
+**Gender Analysis**: Displays performance metrics across genders, enabling comparison of support needs and academic outcomes.
+
+**Total Study Hours**: Line graph of study hours by part-time job status, helping to identify patterns in time allocation and academic effort.
+
+**Total Students per Exam Score Range**: Pie chart comparing high versus low exam score distributions, providing a snapshot of overall academic effectiveness.
+
+Additionally, the dashboard includes interactive slicers for:
+
+**Gender**: Analyze data based on male, female, or other student populations.
+
+**Extracurricular Participation**: Filter by participation status to focus on specific student categories.
+
+**Exam Score**: Drill down using score-based segmentation for deeper analysis of performance trends and their correlation with habits.
+
+**Key findings:**
+
+**Extracurricular Impact on Scores**: Found that students not participating in extracurricular activities (62%) scored higher on average (72) compared to participants (29), suggesting a need for balanced scheduling to support academic focus.
+
+**Part-Time Job Effects**: Observed that 21% of students with part-time jobs scored lower (19) compared to those without (79%, scoring 72), indicating potential challenges in managing work and study time effectively.
+
+**Age-Based Performance Trends**: Highlighted that students aged 23–24 had the highest representation (13–15 students) and varied performance, providing a focus for age-specific academic support strategies.
+
+**Gender Performance Insights**: Revealed that females (53%) slightly outperformed males (41%) with an average exam score difference of 5 points, offering a basis for tailored gender-based interventions.
+
+**Study Hours Disparity**: Noted that students without part-time jobs studied 268.8 hours on average, while those with jobs studied 64.6 hours, underscoring the impact of work on study time availability.
+
+**Exam Score Distribution**: Indicated that 60% of students scored above 70, while 40% scored below, providing a benchmark for academic improvement initiatives.
+
+This dashboard serves as a crucial tool for educators and administrators, offering clear, actionable insights to enhance student support, optimize academic outcomes, and support data-driven educational planning.
+
+**Dashboard Overview:**
+[]
