@@ -190,4 +190,4 @@ Additionally, the dashboard includes interactive slicers for:
 This dashboard serves as a crucial tool for educators and administrators, offering clear, actionable insights to enhance student support, optimize academic outcomes, and support data-driven educational planning.
 
 **Dashboard Overview:**
-![Sales](Sales.png)
+![Sales](Student.png)
