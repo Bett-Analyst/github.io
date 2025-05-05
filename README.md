@@ -144,7 +144,7 @@ This project involved analyzing hospital admission data to identify trends and p
 
 # Project 4
 
-**Title:** Students Perfromance Dashboard
+**Title:** [Students Perfromance Dashboard](https://github.com/Bett-Analyst/github.io/blob/main/Student%20Perfromance%20Dashboard.xlsx)
 
 **Tools Used:** Microsoft Excel(Pivot Tables, Pivot Charts, Slicers, Timelines)
 
@@ -190,4 +190,4 @@ Additionally, the dashboard includes interactive slicers for:
 This dashboard serves as a crucial tool for educators and administrators, offering clear, actionable insights to enhance student support, optimize academic outcomes, and support data-driven educational planning.
 
 **Dashboard Overview:**
-[]
+![Sales](Sales.png)
