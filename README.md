@@ -140,6 +140,6 @@ This project involved analyzing hospital admission data to identify trends and p
 **Age-Driven Demand:** Highlighted peak patient volume in the 50–60 age range, essential for workforce planning and optimizing hospital capacity.
 
 **Dashboard Overview:**
-[Sales.png](https://github.com/Bett-Analyst/github.io/blob/main/Interactive%20Sales%20Dashboard.xlsx)
+![Sales.png](https://github.com/Bett-Analyst/github.io/blob/main/Interactive%20Sales%20Dashboard.xlsx)
 
 
