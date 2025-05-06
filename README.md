@@ -227,5 +227,5 @@ Additionally, the dashboard includes interactive slicers for:
 This dashboard provides actionable insights for healthcare providers, enabling them to identify at-risk groups, prioritize mental health interventions, and enhance postnatal care support systems to improve patient well-being.
 
 **Dashboard Overview**
-![Poast Natal](Post_Natal)
+![Poast Natal](Postnatal)
 
