@@ -191,3 +191,41 @@ This dashboard serves as a crucial tool for educators and administrators, offeri
 
 **Dashboard Overview:**
 ![Student](Student.png)
+
+# Project 5
+**Tittle** [Postnatal Mental Health Analysis Dashboard](https://github.com/Bett-Analyst/github.io/blob/main/post%20natal%20data.csv)
+
+**Tools Used** Power BI (DAX, Slicers)
+
+**Project Description**
+This project analyzed postnatal mental health data from a survey of 1503 patients, focusing on symptoms such as feeling sad or tearful, irritability towards baby and partner, trouble sleeping, and other mental health indicators post-childbirth. The dashboard is designed to assist healthcare providers in identifying prevalent mental health challenges among postnatal patients, enabling targeted interventions and improved support strategies.
+
+*The dashboard includes the following features:*
+
+**Prevalence of Feeling Sad or Tearful by Age Group:** Bar chart showing the percentage of patients reporting feeling sad or tearful across age groups, highlighting emotional health trends.
+**Irritability Towards Baby & Partner Distribution:** Pie chart illustrating the distribution of irritability levels (Yes, Sometimes, No), identifying potential relational stress points.
+**Trouble Sleeping at Night Frequency:** Bar chart displaying the frequency of sleep issues (e.g., "Two or more days a week", "Yes", "No"), emphasizing sleep-related challenges.
+**Feeling of Guilt Across Age Groups:** Bar chart showing the proportion of patients experiencing guilt by age group, aiding in understanding self-perception issues.
+**Suicide Attempt Rates:** Pie chart depicting the proportion of patients who reported a suicide attempt (Yes, No, Not interested to say), highlighting critical mental health risks.
+**Problems Bonding with Baby by Age:** Line graph showing the trend of bonding issues across age groups, useful for identifying support needs in mother-infant relationships.
+
+Additionally, the dashboard includes interactive slicers for:
+
+**Age Range:** Filter data by age groups (e.g., 25-30, 30-35) to focus on specific demographics.
+**Feeling Anxious:** Filter by anxiety levels (Yes, No, Not at all) to assess the impact of anxiety on other symptoms.
+**Problems Bonding with Baby:** Filter by bonding issues (Yes, Sometimes, No) to analyze correlations with other mental health indicators.
+
+**Key Findings**
+
+**High Prevalence of Emotional Distress:** 52% of patients reported feeling sad or tearful, with the 35-40 age group showing the highest rate at 58%, indicating a need for targeted emotional support in this demographic.
+**Sleep Issues Are Common:** 42% of patients experienced trouble sleeping "Two or more days a week," with the 30-35 age group most affected (47%), suggesting sleep support as a critical intervention area.
+**Bonding Challenges Vary by Age:** The 25-30 age group reported the highest rate of problems bonding with their baby (48%), potentially due to younger mothers facing more adjustment challenges, highlighting a need for bonding support programs.
+**Critical Mental Health Risks:** 29% of patients reported a suicide attempt, with the 40-45 age group showing the highest rate (34%), underscoring the urgency of mental health screenings and interventions in postnatal care.
+**Irritability Is Widespread:** 40% of patients reported irritability towards their baby and partner, with no significant variation across age groups, indicating a common relational stressor that may benefit from family counseling.
+**Interesting Insight:** Patients in the 45-50 age group, despite being the smallest group (16% of the sample), reported the highest rate of feeling anxious (60%), suggesting that older postnatal patients may face unique mental health challenges, possibly due to physical or hormonal factors, which warrants further investigation.
+
+This dashboard provides actionable insights for healthcare providers, enabling them to identify at-risk groups, prioritize mental health interventions, and enhance postnatal care support systems to improve patient well-being.
+
+**Dashboard Overview**
+![Poast Natal](Post_Natal)
+
